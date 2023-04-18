@@ -1,0 +1,1 @@
+type TrimRight<S extends string> = S extends `${infer T}${' ' | '\t' | '\n'}` ? TrimRight<T> : S
