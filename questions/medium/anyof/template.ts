@@ -4,4 +4,6 @@ T[number] extends 0 | '' | undefined | null | false | [] | { [key: string]: neve
 /**
  * 解题思路：
  * 穷举法
+ * 
+ * T[number] extends 类似在遍历数组判断
  */
