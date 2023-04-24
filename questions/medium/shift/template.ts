@@ -1,0 +1,1 @@
+type Shift<T extends any[]> = T extends [infer L, ...infer Rest] ? Rest : T
