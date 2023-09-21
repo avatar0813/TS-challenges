@@ -13,4 +13,4 @@
 - `Permutation` 中的 联合类型 extends [never] 还没理解
 - `medium-index-signature` 中 `PropertyKey` 是什么? `done`
 - `medium-percentage-parser` 中 `${CheckPrefix<infer L>}`  怎么理解? `done`
-- `medium-FlattenDepth`  <https://github.com/type-challenges/type-challenges/tree/main/questions/03243-medium-flattendepth>
+- `medium-FlattenDepth`中怎么记录深度？ `done`
